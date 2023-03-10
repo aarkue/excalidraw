@@ -245,3 +245,8 @@ export { MainMenu };
 export { useDevice } from "../../components/App";
 export { WelcomeScreen };
 export { LiveCollaborationTrigger };
+
+
+
+export { getExportSize } from "../../scene/export";
+export { getCommonBounds } from "../../element/bounds";
